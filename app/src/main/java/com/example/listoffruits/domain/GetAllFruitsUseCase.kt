@@ -8,5 +8,5 @@ class GetAllFruitsUseCase {
 
     private val servicie = FruitServicie()
 
-    suspend fun invoke(): List<FruitModel> = servicie.getAllFruits()
+    suspend fun invoke(): MutableList<FruitModel> = servicie.getAllFruits()
 }

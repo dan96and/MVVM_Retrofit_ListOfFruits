@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/dandr/AndroidStudioProjects/ListOfFruits/app/src/main/res/drawable/edit_text_background.xml" value="0.2635" />
         <entry key="..\:/Users/dandr/AndroidStudioProjects/ListOfFruits/app/src/main/res/layout/activity_main.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/dandr/AndroidStudioProjects/ListOfFruits/app/src/main/res/layout/card_view_fruits.xml" value="0.25" />
       </map>
     </option>
   </component>
